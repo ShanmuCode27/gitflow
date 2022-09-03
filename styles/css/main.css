@@ -1,0 +1,26 @@
+.section {
+  height: 100vh;
+}
+
+.home-bg {
+  background-image: url("../../images/home-bg.jpg");
+  background-size: cover;
+  background-position: center;
+  font-family: gothamBold;
+}
+
+@font-face {
+  font-family: gothamBold;
+  src: url("../../font/Gotham-Rounded-Font/Gotham Rounded Medium.otf");
+}
+
+@font-face {
+  font-family: gotham;
+  src: url("../../font/Gotham-Rounded-Font/Gotham Rounded Medium.otf");
+}
+
+.collapsing, .show {
+  background-color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+}
+/*# sourceMappingURL=main.css.map */
