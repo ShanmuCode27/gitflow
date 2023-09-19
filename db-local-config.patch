@@ -1,0 +1,9 @@
+diff --git a/config.txt b/config.txt
+index adc07a5..c0fc238 100644
+--- a/config.txt
++++ b/config.txt
+@@ -1 +1 @@
+-db-name: test
+\ No newline at end of file
++db-name: localtest
+\ No newline at end of file
